@@ -9,7 +9,7 @@ content-type: application/json
 }
 
 
-### Sign in
+### Sign in as an existing user
 POST http://localhost:3000/auth/signin
 content-type: application/json
 
